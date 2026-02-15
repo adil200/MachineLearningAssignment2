@@ -4,6 +4,9 @@
 
 The objective of this project is to predict credit scores (Good, Standard, Poor) based on various financial and personal attributes of customers. Credit score prediction is crucial for financial institutions to assess the creditworthiness of individuals and make informed lending decisions. This multi-class classification problem uses machine learning algorithms to analyze historical customer data and predict credit score categories.
 
+![UI](<Screenshot 2026-02-15 191116.png>)
+![UI](<Screenshot 2026-02-15 191153.png>)
+
 ## b. Dataset Description
 
 The dataset contains customer financial and credit history information with the following characteristics:
